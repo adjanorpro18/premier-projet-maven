@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c0f6cd6-3958-45a8-a525-d1ed6923b58b" name="Default Changelist" comment="project-maven-compilation">
-      <changelist_data name="Enyon ADJANOR" email="enyonadjanor@gmail.com" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c0f6cd6-3958-45a8-a525-d1ed6923b58b" name="Default Changelist" comment="project-maven-compilation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Enyon ADJANOR &lt;enyonadjanor@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -91,7 +93,7 @@
       <updated>1621954037270</updated>
       <workItem from="1621954038466" duration="82000" />
       <workItem from="1621954194428" duration="638000" />
-      <workItem from="1621954893468" duration="2000000" />
+      <workItem from="1621954893468" duration="2058000" />
     </task>
     <task id="LOCAL-00001" summary="premier-projet-maven">
       <created>1621955188713</created>
@@ -135,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621956876947</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="project-maven-compilation">
+      <created>1621957057533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621957057533</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
