@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="premier-projet-maven" target="1.5" />
+      <module name="premier-projet-maven" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

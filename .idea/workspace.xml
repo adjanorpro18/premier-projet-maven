@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c0f6cd6-3958-45a8-a525-d1ed6923b58b" name="Default Changelist" comment="premier-projet-maven" />
+    <list default="true" id="2c0f6cd6-3958-45a8-a525-d1ed6923b58b" name="Default Changelist" comment="first-project-maven">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/premier-projet-maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/premier-projet-maven.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +35,42 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.App" />
+      <module name="premier-projet-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="premier-projet-maven" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="dev.App" />
@@ -37,6 +78,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,7 +94,7 @@
       <updated>1621954037270</updated>
       <workItem from="1621954038466" duration="82000" />
       <workItem from="1621954194428" duration="638000" />
-      <workItem from="1621954893468" duration="331000" />
+      <workItem from="1621954893468" duration="1756000" />
     </task>
     <task id="LOCAL-00001" summary="premier-projet-maven">
       <created>1621955188713</created>
@@ -71,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621955284025</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first-project-maven">
+      <created>1621955378134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621955378134</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier-projet-maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="premier-projet-maven" />
+    <MESSAGE value="first-project-maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="first-project-maven" />
   </component>
 </project>
