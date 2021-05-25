@@ -93,7 +93,7 @@
       <updated>1621954037270</updated>
       <workItem from="1621954038466" duration="82000" />
       <workItem from="1621954194428" duration="638000" />
-      <workItem from="1621954893468" duration="2058000" />
+      <workItem from="1621954893468" duration="2136000" />
     </task>
     <task id="LOCAL-00001" summary="premier-projet-maven">
       <created>1621955188713</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621957057533</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="project-maven-compilation">
+      <created>1621957122901</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621957122901</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
