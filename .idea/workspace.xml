@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c0f6cd6-3958-45a8-a525-d1ed6923b58b" name="Default Changelist" comment="first-project-maven">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="2c0f6cd6-3958-45a8-a525-d1ed6923b58b" name="Default Changelist" comment="project-maven-compilation">
+      <changelist_data name="Enyon ADJANOR" email="enyonadjanor@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/premier-projet-maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/premier-projet-maven.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/dev/App.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1t24pvPcGd0ghzTmEQtn89p0jz6" />
@@ -94,7 +91,7 @@
       <updated>1621954037270</updated>
       <workItem from="1621954038466" duration="82000" />
       <workItem from="1621954194428" duration="638000" />
-      <workItem from="1621954893468" duration="1756000" />
+      <workItem from="1621954893468" duration="2000000" />
     </task>
     <task id="LOCAL-00001" summary="premier-projet-maven">
       <created>1621955188713</created>
@@ -124,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621955378134</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="project-maven-compilation">
+      <created>1621956867026</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621956867026</updated>
+    </task>
+    <task id="LOCAL-00006" summary="project-maven-compilation">
+      <created>1621956876947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621956876947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier-projet-maven" />
     <MESSAGE value="first-project-maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="first-project-maven" />
+    <MESSAGE value="project-maven-compilation" />
+    <option name="LAST_COMMIT_MESSAGE" value="project-maven-compilation" />
   </component>
 </project>
